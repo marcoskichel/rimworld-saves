@@ -595757,7 +595757,6 @@ Though the cover is very plain, the pages are bright and clean.
 						<unlockedAbiliities IsNull="True" />
 						<abilityPresets IsNull="True" />
 						<lightSideAttunement>0.00999999978</lightSideAttunement>
-						<forceExperience>0.300000012</forceExperience>
 						<alreadyHadAbilities IsNull="True" />
 						<abilityPresets>
 							<keys>
