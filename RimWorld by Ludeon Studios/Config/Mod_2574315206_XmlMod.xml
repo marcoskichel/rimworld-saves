@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="XmlExtensions.XmlModBaseSettings">
+		<dataDict>
+			<keys>
+				<li>guy762.MM.KotORCore;KotORCoreSettings_YsalamiriForceDampening</li>
+				<li>guy762.MM.KotORCore;KotORCoreSettings_PlasteelRebalance</li>
+				<li>guy762.MM.KotORCore;KotORCoreSettings_AIJumpPack</li>
+				<li>guy762.MM.KotORCore;KotORCoreSettings_CreditWeight</li>
+			</keys>
+			<values>
+				<li>true</li>
+				<li>true</li>
+				<li>false</li>
+				<li>false</li>
+			</values>
+		</dataDict>
+		<PinnedMods />
+	</ModSettings>
+</SettingsBlock>

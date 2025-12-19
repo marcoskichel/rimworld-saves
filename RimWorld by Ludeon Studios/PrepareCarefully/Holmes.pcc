@@ -1,0 +1,199 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<character>
+	<version>5</version>
+	<mods>Harmony, Core, Royalty, Ideology, Biotech, Anomaly, Odyssey, Vanilla Expanded Framework, Ushankas Hacking Expansion, [FSF] Better Exploration Loot, Customize Weapon, Pick Up And Haul, Quality Colors (Continued), Simple Cape and Hood Retexture, Taste of Vanilla - Bean Turrets, Van's Retexture : Organ jars and EdB Prepare Carefully</mods>
+	<pawn>
+		<id>e4c2d496-233b-44e6-bbdf-0c53f606aca5</id>
+		<type>Colony</type>
+		<faction IsNull="True" />
+		<pawnKindDef>Colonist</pawnKindDef>
+		<mutant IsNull="True" />
+		<gender>Female</gender>
+		<childhood>ApocalypseSurvivor23</childhood>
+		<adulthood>ProstituteIdol28</adulthood>
+		<traits>
+			<li>
+				<def>Industriousness</def>
+				<degree>1</degree>
+			</li>
+			<li>
+				<def>Beauty</def>
+				<degree>2</degree>
+			</li>
+			<li>
+				<def>Cannibal</def>
+			</li>
+			<li>
+				<def>Disturbing</def>
+			</li>
+			<li>
+				<def>SpeedOffset</def>
+				<degree>1</degree>
+			</li>
+			<li>
+				<def>FastLearner</def>
+			</li>
+			<li>
+				<def>GreatMemory</def>
+			</li>
+			<li>
+				<def>Nerves</def>
+				<degree>2</degree>
+			</li>
+		</traits>
+		<traitNames />
+		<traitDegrees />
+		<skinColor>RGBA(0.949, 0.780, 0.549, 1.000)</skinColor>
+		<melanin>0</melanin>
+		<bodyType>Female</bodyType>
+		<headType>Female_AveragePointy</headType>
+		<hairDef>Cute</hairDef>
+		<hairColor>RGBA(0.333, 0.214, 0.118, 1.000)</hairColor>
+		<beard>NoBeard</beard>
+		<faceTattoo>NoTattoo_Face</faceTattoo>
+		<bodyTattoo>NoTattoo_Body</bodyTattoo>
+		<hairDef>Cute</hairDef>
+		<nameType>Triple</nameType>
+		<firstName>Nelly</firstName>
+		<nickName>Holmes</nickName>
+		<lastName>Holmes</lastName>
+		<favoriteColorDef>DarkRed</favoriteColorDef>
+		<biologicalAgeInTicks>81896759</biologicalAgeInTicks>
+		<chronologicalAgeInTicks>312296759</chronologicalAgeInTicks>
+		<skills>
+			<li>
+				<name>Shooting</name>
+				<value>6</value>
+				<passion>None</passion>
+			</li>
+			<li>
+				<name>Melee</name>
+				<value>2</value>
+				<passion>None</passion>
+			</li>
+			<li>
+				<name>Construction</name>
+				<value>13</value>
+				<passion>Minor</passion>
+			</li>
+			<li>
+				<name>Mining</name>
+				<value>7</value>
+				<passion>Minor</passion>
+			</li>
+			<li>
+				<name>Cooking</name>
+				<value>11</value>
+				<passion>Major</passion>
+			</li>
+			<li>
+				<name>Plants</name>
+				<value>10</value>
+				<passion>Minor</passion>
+			</li>
+			<li>
+				<name>Animals</name>
+				<value>9</value>
+				<passion>None</passion>
+			</li>
+			<li>
+				<name>Crafting</name>
+				<value>7</value>
+				<passion>None</passion>
+			</li>
+			<li>
+				<name>Artistic</name>
+				<value>5</value>
+				<passion>None</passion>
+			</li>
+			<li>
+				<name>Medicine</name>
+				<value>9</value>
+				<passion>Minor</passion>
+			</li>
+			<li>
+				<name>Social</name>
+				<value>5</value>
+				<passion>None</passion>
+			</li>
+			<li>
+				<name>Intellectual</name>
+				<value>4</value>
+				<passion>None</passion>
+			</li>
+		</skills>
+		<apparel>
+			<li>
+				<apparel>Apparel_CollarShirt</apparel>
+				<stuff>Synthread</stuff>
+				<quality>Excellent</quality>
+				<hitPoints>1</hitPoints>
+				<color>RGBA(0.580, 0.263, 0.263, 1.000)</color>
+			</li>
+			<li>
+				<apparel>Apparel_Pants</apparel>
+				<stuff>Synthread</stuff>
+				<quality>Excellent</quality>
+				<hitPoints>1</hitPoints>
+				<color>RGBA(0.580, 0.263, 0.263, 1.000)</color>
+			</li>
+			<li>
+				<apparel>Apparel_Cape</apparel>
+				<stuff>Synthread</stuff>
+				<quality>Excellent</quality>
+				<hitPoints>1</hitPoints>
+				<color>RGBA(0.290, 0.405, 0.580, 1.000)</color>
+			</li>
+			<li>
+				<apparel>Apparel_Beret</apparel>
+				<stuff>Synthread</stuff>
+				<quality>Excellent</quality>
+				<hitPoints>1</hitPoints>
+				<color>RGBA(0.290, 0.405, 0.580, 1.000)</color>
+			</li>
+		</apparel>
+		<ideo>
+			<name>Ethernal Veil</name>
+			<certainty>0.760595739</certainty>
+			<sameAsColony>True</sameAsColony>
+			<culture>Astropolitan</culture>
+			<memes>
+				<li>Structure_TheistEmbodied</li>
+				<li>Supremacist</li>
+				<li>Transhumanist</li>
+				<li>Bloodfeeding</li>
+			</memes>
+		</ideo>
+		<genes>
+			<xenotypeDef>Baseliner</xenotypeDef>
+			<endogenes>
+				<li>Skin_Melanin4</li>
+				<li>Hair_DarkBrown</li>
+			</endogenes>
+			<xenogenes />
+			<endogeneRecords>
+				<li>
+					<def>Skin_Melanin4</def>
+				</li>
+				<li>
+					<def>Hair_DarkBrown</def>
+				</li>
+			</endogeneRecords>
+			<xenogeneRecords />
+		</genes>
+		<abilities />
+		<possessions IsNull="True" />
+		<titles IsNull="True" />
+		<otherValues />
+		<implants />
+		<injuries>
+			<li>
+				<hediffDef>Gunshot</hediffDef>
+				<bodyPart>Leg</bodyPart>
+				<severity>4</severity>
+				<painFactor>0</painFactor>
+			</li>
+		</injuries>
+		<hediffs IsNull="True" />
+	</pawn>
+</character>

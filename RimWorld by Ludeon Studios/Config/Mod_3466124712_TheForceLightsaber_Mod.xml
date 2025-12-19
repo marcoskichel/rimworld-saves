@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="Lightsaber.ForceLightsabers_ModSettings">
+		<spinRate>1</spinRate>
+		<deflectionspin>True</deflectionspin>
+		<lightsaberparryEnabled>True</lightsaberparryEnabled>
+		<shouldGlow>True</shouldGlow>
+		<shouldGlow>True</shouldGlow>
+		<deflectableProjectileHashes />
+	</ModSettings>
+</SettingsBlock>
