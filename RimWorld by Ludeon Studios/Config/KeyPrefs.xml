@@ -17,7 +17,7 @@
   <li>
     <key>MapDolly_Left</key>
     <value>
-      <keyBindingA>A</keyBindingA>
+      <keyBindingA>None</keyBindingA>
       <keyBindingB>LeftArrow</keyBindingB>
     </value>
   </li>
@@ -185,7 +185,7 @@
   <li>
     <key>Misc2</key>
     <value>
-      <keyBindingA>H</keyBindingA>
+      <keyBindingA>A</keyBindingA>
       <keyBindingB>None</keyBindingB>
     </value>
   </li>
@@ -480,6 +480,139 @@
     <key>MainTab_History</key>
     <value>
       <keyBindingA>F9</keyBindingA>
+      <keyBindingB>None</keyBindingB>
+    </value>
+  </li>
+  <li>
+    <key>VF_RestartGame</key>
+    <value>
+      <keyBindingA>Keypad1</keyBindingA>
+      <keyBindingB>None</keyBindingB>
+    </value>
+  </li>
+  <li>
+    <key>VF_QuickStartMenu</key>
+    <value>
+      <keyBindingA>Keypad2</keyBindingA>
+      <keyBindingB>None</keyBindingB>
+    </value>
+  </li>
+  <li>
+    <key>VF_DebugSettings</key>
+    <value>
+      <keyBindingA>Keypad3</keyBindingA>
+      <keyBindingB>None</keyBindingB>
+    </value>
+  </li>
+  <li>
+    <key>VFE_Dev_Restart</key>
+    <value>
+      <keyBindingA>None</keyBindingA>
+      <keyBindingB>None</keyBindingB>
+    </value>
+  </li>
+  <li>
+    <key>SSSW_Ranged</key>
+    <value>
+      <keyBindingA>None</keyBindingA>
+      <keyBindingB>None</keyBindingB>
+    </value>
+  </li>
+  <li>
+    <key>SSSW_Melee</key>
+    <value>
+      <keyBindingA>None</keyBindingA>
+      <keyBindingB>None</keyBindingB>
+    </value>
+  </li>
+  <li>
+    <key>SSSW_Disable</key>
+    <value>
+      <keyBindingA>None</keyBindingA>
+      <keyBindingB>None</keyBindingB>
+    </value>
+  </li>
+  <li>
+    <key>SSSW_Unarmed</key>
+    <value>
+      <keyBindingA>None</keyBindingA>
+      <keyBindingB>None</keyBindingB>
+    </value>
+  </li>
+  <li>
+    <key>SSSW_LongRange</key>
+    <value>
+      <keyBindingA>None</keyBindingA>
+      <keyBindingB>None</keyBindingB>
+    </value>
+  </li>
+  <li>
+    <key>SSSW_MediumRange</key>
+    <value>
+      <keyBindingA>None</keyBindingA>
+      <keyBindingB>None</keyBindingB>
+    </value>
+  </li>
+  <li>
+    <key>SSSW_ShortRange</key>
+    <value>
+      <keyBindingA>None</keyBindingA>
+      <keyBindingB>None</keyBindingB>
+    </value>
+  </li>
+  <li>
+    <key>SSSW_Dangerous</key>
+    <value>
+      <keyBindingA>None</keyBindingA>
+      <keyBindingB>None</keyBindingB>
+    </value>
+  </li>
+  <li>
+    <key>SSSW_EMP</key>
+    <value>
+      <keyBindingA>None</keyBindingA>
+      <keyBindingB>None</keyBindingB>
+    </value>
+  </li>
+  <li>
+    <key>SSSW_NonLethal</key>
+    <value>
+      <keyBindingA>None</keyBindingA>
+      <keyBindingB>None</keyBindingB>
+    </value>
+  </li>
+  <li>
+    <key>SSSW_Next</key>
+    <value>
+      <keyBindingA>None</keyBindingA>
+      <keyBindingB>None</keyBindingB>
+    </value>
+  </li>
+  <li>
+    <key>SSSW_Previous</key>
+    <value>
+      <keyBindingA>None</keyBindingA>
+      <keyBindingB>None</keyBindingB>
+    </value>
+  </li>
+  <li>
+    <key>MintMenus_MiniMap</key>
+    <value>
+      <keyBindingA>None</keyBindingA>
+      <keyBindingB>None</keyBindingB>
+    </value>
+  </li>
+  <li>
+    <key>MintMenus_PingTool</key>
+    <value>
+      <keyBindingA>None</keyBindingA>
+      <keyBindingB>None</keyBindingB>
+    </value>
+  </li>
+  <li>
+    <key>MainTab_kNumbersOverviewTab</key>
+    <value>
+      <keyBindingA>Z</keyBindingA>
       <keyBindingB>None</keyBindingB>
     </value>
   </li>
