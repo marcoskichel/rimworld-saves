@@ -14,7 +14,7 @@
   <plantWindSway>True</plantWindSway>
   <screenShakeIntensity>1</screenShakeIntensity>
   <textureCompression>True</textureCompression>
-  <showRealtimeClock>False</showRealtimeClock>
+  <showRealtimeClock>True</showRealtimeClock>
   <disableTinyText>False</disableTinyText>
   <animalNameMode>None</animalNameMode>
   <mechNameMode>WhileDrafted</mechNameMode>
@@ -25,7 +25,7 @@
   <highlightStyleMode>Silhouettes</highlightStyleMode>
   <visibleMood>True</visibleMood>
   <twelveHourClock>False</twelveHourClock>
-  <adaptiveTrainingEnabled>True</adaptiveTrainingEnabled>
+  <adaptiveTrainingEnabled>False</adaptiveTrainingEnabled>
   <steamDeckKeyboardMode>False</steamDeckKeyboardMode>
   <preferredNames />
   <resourceReadoutCategorized>True</resourceReadoutCategorized>
@@ -53,7 +53,7 @@
     <y>0</y>
   </devPalettePosition>
   <langFolderName>English</langFolderName>
-  <logVerbose>True</logVerbose>
+  <logVerbose>False</logVerbose>
   <openLogOnWarnings>False</openLogOnWarnings>
   <closeLogWindowOnEscape>True</closeLogWindowOnEscape>
   <disableQuickStartCryptoSickness>True</disableQuickStartCryptoSickness>
